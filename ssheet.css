@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+	text-align: center;
+	font-family: Raleway, sans-serif;
+	color: white;
+}
+div{
+	margin: auto auto;
+}
+h2{
+	font-size: 50px;
+}
+h5{
+	font-size: 30px;
+	font-family: Ubuntu, sans-serif;
+}
