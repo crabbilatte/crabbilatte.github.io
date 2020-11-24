@@ -6,8 +6,11 @@ body{
 	text-align: center;
 	font-family: Raleway, sans-serif;
 	color: white;
-	padding-top: 30%;
-	margin-top: 50%;
+}
+a{
+	color: #1DA1F2;
+	text-decoration: none;
+	/*font-size: 30px;*/
 }
 div{
 	margin: auto auto;
