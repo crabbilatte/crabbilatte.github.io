@@ -1,11 +1,9 @@
 body{
-	background: url("/src/logo.png");
-	background-repeat: no-repeat;
-	background-size: cover;
 	background-color: black;
 	text-align: center;
 	font-family: Raleway, sans-serif;
 	color: white;
+	margin-top: 15%;
 }
 a{
 	color: #1DA1F2;
