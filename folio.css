@@ -1,26 +1,36 @@
 body{
 	background-color: black;
 	font-family: Raleway, sans-serif;
-	margin-top: 10px;
 	color: white;
-	font-size: 30px;
+	font-size: 20px;
 	letter-spacing: 1px;
 	padding: 0px 20px;
+	margin-top: 10px;
 }
-hr{
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 1px;
+a{
+	color: white;
+	text-decoration: none;
+	align-self: left;
 }
-.title{
-	/*text-decoration: underline;*/
-	text-align: center;
-	border-bottom: 5px solid white;
-	margin-bottom: 2em;
+.nav{
+	background-color: white;
+	color: black;
+	border-radius: 35px;
+	text-align: left;
+	margin: 20px;
+	padding: 20px;
+	position: sticky;
+	top: 0px;
+}
+.nav-button{
+	font-size: 30px;
+	text-decoration: none;
+	color: black;
+
+}
+.navimg{
+	height: 100px;
+	width: 100px;
 }
 .enlist{
 	background-color: rgba(192,192,192, 0.3);
