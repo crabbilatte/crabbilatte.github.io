@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+	font-family: Raleway, sans-serif;
+	margin-top: 10px;
+	color: white;
+	font-size: 30px;
+	letter-spacing: 1px;
+	padding: 0px 20px;
+}
+hr{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+.title{
+	/*text-decoration: underline;*/
+	text-align: center;
+	border-bottom: 5px solid white;
+	margin-bottom: 2em;
+}
+.enlist{
+	background-color: rgba(192,192,192, 0.3);
+	margin: 30px;
+	padding: 1em;
+	text-align: center;
+	font-weight: 500px;
+	border-radius: 35px;
+}
+.subtitle{
+	font-size: 1.5em;
+}
+.list_body{
+	margin-top: 20px;
+}
