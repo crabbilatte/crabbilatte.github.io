@@ -20,7 +20,7 @@ a{
 	margin: 30px;
 	padding: 20px;
 	position: sticky;
-	top: 0px;
+	top: 10px;
 }
 .nav-button{
 	font-size: 30px;
@@ -37,7 +37,6 @@ a{
 	margin: 30px;
 	padding: 1em;
 	text-align: center;
-	font-weight: 500px;
 	border-radius: 35px;
 }
 .subtitle{
