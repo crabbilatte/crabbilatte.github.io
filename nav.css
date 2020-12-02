@@ -1,0 +1,48 @@
+/*NAVBAR*/
+.nav{
+	background-color: white;
+	color: black;
+	border-radius: 35px;
+	text-align: left;
+	margin: 30px;
+	padding: 20px;
+	position: sticky;
+	top: 10px;
+}
+.navimg{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+.nav-button{
+	font-size: 30px;
+	text-decoration: none;
+	color: black;
+	margin-left: 20px;
+}
+
+/*LIST*/
+.enlist_body{
+	background-color: rgba(192,192,192, 0.3);
+	margin: 30px;
+	padding: 1em;
+	text-align: center;
+	border-radius: 35px;
+}
+.enlist{
+	background-color: rgba(192,192,192, 0.3);
+	margin: 30px;
+	padding: 1em;
+	text-align: center;
+	border-radius: 35px;
+}
+.subtitle{
+	font-size: 1.5em;
+}
+.list_body{
+	margin-top: 20px;
+}
+.enlist:hover{
+	color: #3f3f3f;
+	background-color: rgba(255,255,255,0.78);
+}
