@@ -8,27 +8,3 @@ a{
 	text-decoration: none;
 	color: white;
 }
-.enlist_body{
-	background-color: rgba(192,192,192, 0.3);
-	margin: 30px;
-	padding: 1em;
-	text-align: center;
-	border-radius: 35px;
-}
-.enlist{
-	background-color: rgba(192,192,192, 0.3);
-	margin: 30px;
-	padding: 1em;
-	text-align: center;
-	border-radius: 35px;
-}
-.subtitle{
-	font-size: 1.5em;
-}
-.list_body{
-	margin-top: 20px;
-}
-.enlist:hover{
-	color: #3f3f3f;
-	background-color: rgba(255,255,255,0.78);
-}
